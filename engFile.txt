@@ -1,0 +1,77 @@
+(verb) To Be | Tir
+(verb) To Breathe | Gar
+(verb) To Have | Hir
+(verb) To Kill | Kir
+(verb) To Like | Lir
+(verb) To Read | Rir
+(verb) To Run | Rar
+(verb) To See | Vir
+(verb) To Want | War
+Add | Luh
+Age | Aug
+Air | Lai
+Amy | Low-Shoy
+And | A
+Attached | Tach
+Black | Lah
+Blue | Loo
+Bradley | Larmou'ath
+Cat | Ato
+Change | Chay
+Day | Ahm
+Dick | Hoy'Sty
+Dict | Eng
+Dog | Ogo
+Eight | Tab
+Ethan | Ron-Hoy
+Female | Shoy
+Five | Tag
+Four | Foo
+God | Goh
+Good | Na
+Goodbye | Na'Vir'Uno
+Green | Ree
+He | Hay
+Head | Tay
+Hello | Na'Ahm
+Human | Uma
+It | Tay
+James | Chay-Hoy
+Kavian | Kavian-Hoy
+Large | Larmou
+Late | Tar
+Levi | Tach-Hoy
+Male | Hoy
+Me | Ono
+Mind | My
+Much | Lar
+My | On
+Name | Nim
+Night | Orm
+Nine | Nag
+Now | Char
+One | Ing
+Owen | Na-Hoy
+Path | Ath
+Pink | Pee
+Program | Ro'Ham
+Programmer (F) | Ro'Ham'Shoy
+Programmer (M) | Ro'Ham'Hoy
+Red | Ray
+Seven | Sep
+She | Shay
+Shoulder | Show
+Six | Hic
+Size | Mou
+Stick | Sty
+Strong | Ron
+The | Erl
+Three | Rip
+Two | Dou
+We | Unu
+White | Why
+World | Gai
+Yellow | Yay
+You | Uno
+Your | Un
+Zero | Now
